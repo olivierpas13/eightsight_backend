@@ -23,6 +23,29 @@ app.add_middleware(
 )
 
 
+db = client.files.create(
+  purpose="assistants",
+  file=open("db.json", "rb"),
+)
+
+assistant = client.beta.assistants.create(
+  name="Stats expert",
+  instructions="You are an statistical expert that can answer any given question with precise data, dont show the process, focus on the answer itself, no images or extra files",
+  tools=[{"type": "code_interpreter"}],
+  model="gpt-4o-mini",
+  temperature=0,
+  response_format="auto",
+  tool_resources=
+    {
+      "code_interpreter": {
+        "file_ids": [db.id]
+      }
+    }
+  )
+
+thread = client.beta.threads.create()
+
+
 @app.get("/", response_class=JSONResponse, tags=["Default"])
 async def getCorrectChart(message: str = ""):
     response = client.chat.completions.create(
@@ -57,3 +80,20 @@ async def getCorrectChart(message: str = ""):
       }
     )
     return response.choices[0].message.content
+  
+  
+@app.get("/assistant", response_class=JSONResponse, tags=["Default"])
+async def getAssist(message: str = ""):
+  run = client.beta.threads.runs.create_and_poll(
+  thread_id=thread.id,
+  assistant_id=assistant.id,
+  instructions=message,
+  response_format="auto"
+  )
+  if run.status == 'completed': 
+    messages = client.beta.threads.messages.list(
+      thread_id=thread.id
+    )
+  
+  content = messages.data[0].content[0].text.value
+  return content

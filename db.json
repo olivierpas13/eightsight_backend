@@ -1,0 +1,452 @@
+[
+    {
+      "id": 1,
+      "major_city": "los angeles",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.795160055,
+      "internet_perc_broadband": 0.853305785
+    },
+    {
+      "id": 2,
+      "major_city": "los angeles",
+      "speed_down": 10,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.581406035,
+      "internet_perc_broadband": 0.884955752
+    },
+    {
+      "id": 3,
+      "major_city": "los angeles",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.366151019,
+      "internet_perc_broadband": 0.552173913
+    },
+    {
+      "id": 4,
+      "major_city": "los angeles",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.46515546,
+      "internet_perc_broadband": 0.763313609
+    },
+    {
+      "id": 5,
+      "major_city": "los angeles",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.856072905,
+      "internet_perc_broadband": 0.889830508
+    },
+    {
+      "id": 6,
+      "major_city": "los angeles",
+      "speed_down": 10,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.551278909,
+      "internet_perc_broadband": 0.774480712
+    },
+    {
+      "id": 7,
+      "major_city": "los angeles",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.806126512,
+      "internet_perc_broadband": 0.696666667
+    },
+    {
+      "id": 8,
+      "major_city": "los angeles",
+      "speed_down": 25,
+      "speed_up": 5,
+      "technology": "Not Fiber",
+      "income_lmi": 0.836452749,
+      "internet_perc_broadband": 0.802218115
+    },
+    {
+      "id": 9,
+      "major_city": "los angeles",
+      "speed_down": 25,
+      "speed_up": 5,
+      "technology": "Not Fiber",
+      "income_lmi": 1.007045489,
+      "internet_perc_broadband": 0.873313783
+    },
+    {
+      "id": 10,
+      "major_city": "los angeles",
+      "speed_down": 1,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.807428396,
+      "internet_perc_broadband": 0.958333333
+    },
+    {
+      "id": 11,
+      "major_city": "los angeles",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.633925563,
+      "internet_perc_broadband": 0.897959184
+    },
+    {
+      "id": 12,
+      "major_city": "los angeles",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.845213662,
+      "internet_perc_broadband": 0.795053004
+    },
+    {
+      "id": 13,
+      "major_city": "los angeles",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.727523357,
+      "internet_perc_broadband": 0.820441989
+    },
+    {
+      "id": 14,
+      "major_city": "los angeles",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.601883903,
+      "internet_perc_broadband": 0.630882353
+    },
+    {
+      "id": 15,
+      "major_city": "los angeles",
+      "speed_down": 50,
+      "speed_up": 10,
+      "technology": "Not Fiber",
+      "income_lmi": 0.654617859,
+      "internet_perc_broadband": 0.849340866
+    },
+    {
+      "id": 16,
+      "major_city": "los angeles",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.572231582,
+      "internet_perc_broadband": 0.854368932
+    },
+    {
+      "id": 17,
+      "major_city": "los angeles",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.462674223,
+      "internet_perc_broadband": 0.847858198
+    },
+    {
+      "id": 18,
+      "major_city": "los angeles",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.783826007,
+      "internet_perc_broadband": 0.822404372
+    },
+    {
+      "id": 19,
+      "major_city": "los angeles",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.73150559,
+      "internet_perc_broadband": 0.926654741
+    },
+    {
+      "id": 20,
+      "major_city": "los angeles",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.956134171,
+      "internet_perc_broadband": 0.701195219
+    },
+    {
+      "id": 21,
+      "major_city": "los angeles",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.671833359,
+      "internet_perc_broadband": 0.708128079
+    },
+    {
+      "id": 22,
+      "major_city": "los angeles",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.542456732,
+      "internet_perc_broadband": 0.672839506
+    },
+    {
+      "id": 23,
+      "major_city": "los angeles",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.562184102,
+      "internet_perc_broadband": 0.754854369
+    },
+    {
+      "id": 24,
+      "major_city": "los angeles",
+      "speed_down": 10,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.608546485,
+      "internet_perc_broadband": 0.691648822
+    },
+    {
+      "id": 25,
+      "major_city": "los angeles",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.679231123,
+      "internet_perc_broadband": 0.922619048
+    },
+    {
+      "id": 26,
+      "major_city": "los angeles",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.159825394,
+      "internet_perc_broadband": 0.939233818
+    },
+    {
+      "id": 27,
+      "major_city": "chicago",
+      "speed_down": 50,
+      "speed_up": 10,
+      "technology": "Not Fiber",
+      "income_lmi": 0.480957212,
+      "internet_perc_broadband": 0.607198748
+    },
+    {
+      "id": 28,
+      "major_city": "chicago",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.904005024,
+      "internet_perc_broadband": 0.856435644
+    },
+    {
+      "id": 29,
+      "major_city": "chicago",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.525500427,
+      "internet_perc_broadband": 0.791916168
+    },
+    {
+      "id": 30,
+      "major_city": "chicago",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.878770311,
+      "internet_perc_broadband": 0.748091603
+    },
+    {
+      "id": 31,
+      "major_city": "chicago",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.420213537,
+      "internet_perc_broadband": 0.802973978
+    },
+    {
+      "id": 32,
+      "major_city": "chicago",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.866144902,
+      "internet_perc_broadband": 0.759398496
+    },
+    {
+      "id": 33,
+      "major_city": "chicago",
+      "speed_down": 0.768,
+      "speed_up": 0.384,
+      "technology": "Not Fiber",
+      "income_lmi": 0.570349614,
+      "internet_perc_broadband": 0.781512605
+    },
+    {
+      "id": 34,
+      "major_city": "chicago",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 1.894213891,
+      "internet_perc_broadband": 0.969648562
+    },
+    {
+      "id": 35,
+      "major_city": "chicago",
+      "speed_down": 1,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.73042176,
+      "internet_perc_broadband": 0.621621622
+    },
+    {
+      "id": 36,
+      "major_city": "chicago",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.046573112,
+      "internet_perc_broadband": 0.721913164
+    },
+    {
+      "id": 37,
+      "major_city": "chicago",
+      "speed_down": 50,
+      "speed_up": 10,
+      "technology": "Not Fiber",
+      "income_lmi": 1.092689527,
+      "internet_perc_broadband": 0.956783435
+    },
+    {
+      "id": 38,
+      "major_city": "chicago",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.522332253,
+      "internet_perc_broadband": 0.801346682
+    },
+    {
+      "id": 39,
+      "major_city": "chicago",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 1.493917029,
+      "internet_perc_broadband": 0.931501883
+    },
+    {
+      "id": 40,
+      "major_city": "chicago",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.531741356,
+      "internet_perc_broadband": 0.679822679
+    },
+    {
+      "id": 41,
+      "major_city": "chicago",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.509077907,
+      "internet_perc_broadband": 0.854476194
+    },
+    {
+      "id": 42,
+      "major_city": "chicago",
+      "speed_down": 5,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.171421355,
+      "internet_perc_broadband": 0.781348412
+    },
+    {
+      "id": 43,
+      "major_city": "chicago",
+      "speed_down": 18,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.636013117,
+      "internet_perc_broadband": 0.926506802
+    },
+    {
+      "id": 44,
+      "major_city": "chicago",
+      "speed_down": 0.768,
+      "speed_up": 0.384,
+      "technology": "Not Fiber",
+      "income_lmi": 0.479572947,
+      "internet_perc_broadband": 0.726145835
+    },
+    {
+      "id": 45,
+      "major_city": "chicago",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 1.238629028,
+      "internet_perc_broadband": 0.681012349
+    },
+    {
+      "id": 46,
+      "major_city": "chicago",
+      "speed_down": 300,
+      "speed_up": 300,
+      "technology": "Fiber",
+      "income_lmi": 0.894820533,
+      "internet_perc_broadband": 0.683823529
+    },
+    {
+      "id": 47,
+      "major_city": "chicago",
+      "speed_down": 75,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.651675934,
+      "internet_perc_broadband": 0.851652892
+    },
+    {
+      "id": 48,
+      "major_city": "chicago",
+      "speed_down": 10,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 1.048014511,
+      "internet_perc_broadband": 0.702481711
+    },
+    {
+      "id": 49,
+      "major_city": "chicago",
+      "speed_down": 10,
+      "speed_up": 1,
+      "technology": "Not Fiber",
+      "income_lmi": 0.550944049,
+      "internet_perc_broadband": 0.772955268
+    },
+    {
+      "id": 50,
+      "major_city": "chicago",
+      "speed_down": 100,
+      "speed_up": 20,
+      "technology": "Not Fiber",
+      "income_lmi": 0.908063711,
+      "internet_perc_broadband": 0.727272727
+    }
+  ]
