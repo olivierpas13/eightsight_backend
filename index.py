@@ -94,6 +94,4 @@ async def getAssist(message: str = ""):
     messages = client.beta.threads.messages.list(
       thread_id=thread.id
     )
-  
-  content = messages.data[0].content[0].text.value
-  return content
+  return messages.data[0].content[0].text.value
